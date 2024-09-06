@@ -4,7 +4,7 @@ type: project
 image: img/Badminton.jpg
 title: "Badminton Website"
 date: 2024
-published: true
+published: false
 summary: "A revamped website of an already-existing website for the "Honolulu Badminton Club" gym here in Honolulu, Hawaii."
 ---
 
