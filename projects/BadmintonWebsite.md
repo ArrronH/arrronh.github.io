@@ -8,7 +8,7 @@ published: true
 labels:
   - HTML
   - Javascript
-summary: "A revamped website of an already-existing website for the "Honolulu Badminton Club" gym here in Honolulu, Hawaii."
+summary: "A revamped website of an already-existing website for the 'Honolulu Badminton Club' gym here in Honolulu, Hawaii."
 ---
 
 I am in the process of creating a revamped "Honolulu Badminton Club" website! This new website will include hours of operation, what kind of drinks are available for purchase, information about our gym, pricing of shuttlecocks/membership, and so much more! I have acquired permission from one of the people that run the gym to update the website a long time ago, so now is the perfect time.
