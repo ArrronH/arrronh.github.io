@@ -7,6 +7,7 @@ date: 2024/03/03
 published: true
 labels:
   - C
+  - Java
 summary: "A very simple command-line calculator that I made in ICS 212."
 ---
 
