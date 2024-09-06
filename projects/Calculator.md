@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Calculator.png
+image: img/Calculator.jpeg
 title: "Command-line Calculator"
 date: 2024/03/03
 published: true
