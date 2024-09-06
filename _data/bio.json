@@ -20,7 +20,7 @@
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Languages and Frameworks: ",
       "keywords": [ "" ]
     },
     {
@@ -47,8 +47,6 @@
       "startDate": "2022/01/07",
       "endDate": "2022/03/29",
       "summary": "Serving gelato to customers, refilling ice cream tubs in the display, cashier duty",
-      "highlights": [
-        ""
       ]
     },
     {
@@ -58,11 +56,8 @@
       "startDate": "2022/07/01",
       "endDate": "Present",
       "summary": "Picking up/dropping off passengers, delivering food to customers",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
+    },
+  ]
   "volunteer": [
     {
       "organization": "Shinnyo Lantern Floating Hawai'i",
@@ -71,35 +66,9 @@
       "startDate": "2019/05/25",
       "endDate": "2019/05/27",
       "summary": "Helped set up the festival venue, lead people where they needed to go, greeted everyone ",
-      "highlights": [
-        ""
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
   ],
   "references": [
     {
