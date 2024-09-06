@@ -16,16 +16,6 @@ This is a command-line calculator that I made for one of the assignments in ICS 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-//Functions for add, subtract, multiply, and divide
-int add(int, int);
-int sub(int, int);
-int mult(int, int);
-int div(int, int);
-
-//Main takes in args
-int main(int argc, char *argv[]) {
-    int num1, num2, operator;
-
     //Input validation
     if(argc != 4) {
         printf("ERROR: You must enter four commandline arguments! You entered %i.\n", argc);
