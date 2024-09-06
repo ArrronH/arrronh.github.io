@@ -7,13 +7,13 @@ date: 2024/03/03
 published: true
 labels:
   - C
+---
 
 summary: "A very simple command-line calculator that I made in ICS 212."
 
 This is a command-line calculator that I made for one of the assignments in ICS 212! This calculator is able to add, subtract, multiply, and divide any non-decimal number. If you enter anything invalid, it shoots back an error and tells you to re-enter the equation. Here is a snippet of the code.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
+```cpp
     //Input validation
     if(argc != 4) {
         printf("ERROR: You must enter four commandline arguments! You entered %i.\n", argc);
@@ -55,5 +55,4 @@ This is a command-line calculator that I made for one of the assignments in ICS 
     }    
     return 0;
 }
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
+```
