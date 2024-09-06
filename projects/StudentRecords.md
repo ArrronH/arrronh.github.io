@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Student.jpg
 title: "Student Record Keeper"
-date: 2024
+date: 2024/03/25
 published: true
 labels:
   - C
