@@ -4,7 +4,7 @@ type: project
 image: img/Badminton.jpg
 title: "Badminton Website"
 date: 2024
-published: true
+published: false
 labels:
   - C
   - Java
