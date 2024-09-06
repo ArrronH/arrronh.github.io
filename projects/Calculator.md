@@ -1,16 +1,13 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Calculator.png
 title: "Command-line Calculator"
 date: 2024/03/03
 published: true
 labels:
   - C
 summary: "A very simple command-line calculator that I made in ICS 212."
----
-
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 This is a command-line calculator that I made for one of the assignments in ICS 212! This calculator is able to add, subtract, multiply, and divide any non-decimal number. If you enter anything invalid, it shoots back an error and tells you to re-enter the equation. Here is a snippet of the code.
 
