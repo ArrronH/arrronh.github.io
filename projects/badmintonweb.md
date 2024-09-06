@@ -6,9 +6,8 @@ title: "Badminton Website"
 date: 2024
 published: true
 labels:
-  
-JavaScript
-HTML
+  - JavaScript
+  - HTML
 summary: "A revamped website of an already-existing website for the "Honolulu Badminton Club" gym here in Honolulu, Hawaii."
 ---
 
