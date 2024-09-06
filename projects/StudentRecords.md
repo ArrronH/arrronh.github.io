@@ -5,13 +5,10 @@ image: img/Student.jpg
 title: "Student Record Keeper"
 date: 2024/03/25
 published: true
-labels:
-  - C
-  - Java
-summary: "I developed code in my ICS212 class that lets you input student information and keep a record of it."
+summary: "I developed code in my ICS 212 class that lets you input student information and keep a record of it."
 ---
 
-For one of our ICS212 assignments, we created code that lets you input an imaginary student's name, age, and GPA and keeps a record of it. This code allows you to see the entire record database to see which students were registered. It's pretty neat and could have many different versions of similar code. Here is a snippet of my code.
+For one of our ICS 212 assignments, we created code that lets you input an imaginary student's name, age, and GPA and keeps a record of it. This code allows you to see the entire record database to see which students were registered. It's pretty neat and could have many different versions of similar code. Here is a snippet of my code.
 
 ```cpp
 int main(){
