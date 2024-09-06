@@ -6,7 +6,7 @@
     "email": "arronh@hawaii.edu",
     "phone": "",
     "website": "https://ArrronH.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ArrronH", "url": "http://github.com/ArrronH" },
@@ -14,26 +14,31 @@
     ]
   },
   "interests": [
-    { "name": "Badminton" },
+    { "name": "Game Design" },
     { "name": "Software Development" },
-    { "name": "Game Design" }
+    { "name": "Badminton" },
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks: ",
-      "keywords": [ "" ]
-    },
-    {
-      "name": "",
-      "keywords": [ "" ]
+      "name": "Languages and Frameworks",
+      "keywords": [ "Javascript", "C", "C++" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "institution": "Kapiolani Community College",
+      "area": "Computer Science",
+      "studyType": "Associate in Science",
+      "startDate": "2022",
+      "endDate": "2024",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2024/08/26",
+      "startDate": "2024",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,27 +49,24 @@
       "company": "Il Gelato Hawaii",
       "position": "Server/Cashier",
       "website": "https://www.ilgelato-hawaii.com/",
-      "startDate": "2022/01/07",
-      "endDate": "2022/03/29",
-      "summary": "Serving gelato to customers, refilling ice cream tubs in the display, cashier duty",
-    },
-    {
-      "company": "Uber",
-      "position": "Driver, Food Delivery",
-      "website": "http://www.uber.com",
-      "startDate": "2022/07/01",
-      "endDate": "Present",
-      "summary": "Picking up/dropping off passengers, delivering food to customers",
-    },
-  ]
+      "startDate": "2020/01/07",
+      "endDate": "2020/03/29",
+      "summary": "Serving customers with a smile!"
+    }
+  ],
   "volunteer": [
     {
       "organization": "Shinnyo Lantern Floating Hawai'i",
-      "website": "http://lanternfloatinghawaii.com",
-      "position": "Setting up the festival, greeting people",
-      "startDate": "2019/05/25",
-      "endDate": "2019/05/27",
-      "summary": "Helped set up the festival venue, lead people where they needed to go, greeted everyone ",
+      "website": "https://lanternfloatinghawaii.com/",
+      "position": "Setup, Leadership",
+      "startDate": "2019/05/27",
+      "endDate": "2019/05/25",
+      "summary": "Setting up the venue and greeting people the day of the event."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
     }
   ]
 }
