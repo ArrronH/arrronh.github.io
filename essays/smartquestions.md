@@ -10,6 +10,7 @@ labels:
   - Answers
   - StackOverflow
 ---
+![SmartQuestions](img/SmartQuestions.png)
 
 ## Need help? Ask questions the right way!
 
