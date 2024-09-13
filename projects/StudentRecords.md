@@ -8,6 +8,8 @@ published: true
 summary: "I developed code in my ICS 212 class that lets you input student information and keep a record of it."
 ---
 
+![Student Records](https://tx02201707.schoolwires.net/cms/lib/TX02201707/Centricity/Domain/5513/records.jpg)
+
 For one of our ICS 212 assignments, we created code that lets you input an imaginary student's name, age, and GPA and keeps a record of it. This code allows you to see the entire record database to see which students were registered. It's pretty neat and could have many different versions of similar code. Here is a snippet of my code.
 
 ```cpp
