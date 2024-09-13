@@ -11,6 +11,8 @@ labels:
 summary: "A very simple command-line calculator that I made in ICS 212."
 ---
 
+![Calc](https://www.wikihow.com/images/thumb/2/22/Make-a-Command-Prompt-Calculator-Step-6.jpg/v4-460px-Make-a-Command-Prompt-Calculator-Step-6.jpg)
+
 This is a command-line calculator that I made for one of the assignments in ICS 212! This calculator is able to add, subtract, multiply, and divide any non-decimal number. If you enter anything invalid, it shoots back an error and tells you to re-enter the equation. Here is a snippet of the code.
 
 ```cpp
