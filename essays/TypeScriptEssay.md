@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
+![TypeScript](https://miro.medium.com/v2/resize:fit:300/1*2Od4IRPXatgY86yZlI-Snw.png)
 
 When I first came into this ICS314 class, I was pretty nervous. I was told that we will be using a new programming language to do assignments, projects, and other things. At first, I thought it would be really hard to understand, since it is something I've never seen before. But, as I did the coding camp that was provided to us in the first week of class, I was relieved. Everything that we learned about JavaScript is implemented to TypeScript with a few additions. And, it is much easier to code using TypeScript because you can catch errors right as you're typing your code. It is crazy to me how programming languages have evolved to help coders have a better understanding at what they're doing wrong and how to fix it. I really think that TypeScript is a really good programming language.
 
