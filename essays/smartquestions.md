@@ -10,7 +10,7 @@ labels:
   - Answers
   - StackOverflow
 ---
-![SmartQuestions](img/SmartQuestions.png)
+![SmartQuestions](https://wwghq.com/wp-content/uploads/2022/07/how-to-ask-smart-questions-tile-300x300.png)
 
 ## Need help? Ask questions the right way!
 
