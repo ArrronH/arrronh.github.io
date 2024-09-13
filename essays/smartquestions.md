@@ -19,7 +19,7 @@ Have you ever been stuck on something related to your code and wanted a concrete
 
 ## A good question!
 
-Here is an example of a [good question](https://stackoverflow.com/questions/11828270/how-do-i-exit-vim). I honestly think that this is considered a "good" question because the user that submitted the question included that they have tried to exit vim with "type :quit<Enter> to quit VIM", but said it just "simply appears in the object body". The user has attempted to solve the problem, and due to them not being able to solve it themselves, they asked their question on StackOverflow. Also, the comments give very good answers, with detailed explanations of what each code does. An example of a "bad" version of this question is "How to exit vim" with no text in the body (just the question)!
+Here is an example of a [good question](https://stackoverflow.com/questions/11828270/how-do-i-exit-vim). I honestly think that this is considered a "good" question because the user that submitted the question included that they have tried to exit vim with 'type :quit<Enter> to quit VIM', but said it just "simply appears in the object body". The user has attempted to solve the problem, and due to them not being able to solve it themselves, they asked their question on StackOverflow. Also, the comments give very good answers, with detailed explanations of what each code does. An example of a "bad" version of this question is "How to exit vim" with no text in the body (just the question)!
 
 ## A bad question!
 
