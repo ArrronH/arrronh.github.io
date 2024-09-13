@@ -23,4 +23,4 @@ Here is an example of a [good question](https://stackoverflow.com/questions/1182
 
 ## A bad question!
 
-Here is an example of a [bad question]
+Here is an example of a
