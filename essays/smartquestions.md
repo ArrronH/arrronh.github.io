@@ -12,7 +12,6 @@ labels:
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-<
 
 ## Need help? Ask questions the right way!
 
