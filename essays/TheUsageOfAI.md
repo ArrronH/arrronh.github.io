@@ -11,11 +11,11 @@ labels:
 
 ![Software Engineering](https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg)
 
-I. Introduction
+## I. Introduction
 
 AI is an incredibly powerful tool, and saying it won't take over the world would be an understatement. Throughout my time in ICS 314, I've used AI tools like ChatGPT and Claude AI to help enhance my learning experience. These AI tools have helped me with fixing errors within my code, answering questions that I did not have answers to right away, and completing assignments in a timely manner. The availability of AI has truly been a lifesaver, helping me realize that there's always something out there to assist you.
 
-II. Personal Experience with AI:
+## II. Personal Experience with AI:
 
 1. Experience WODs e.g. E18:
 
@@ -65,7 +65,7 @@ When writing code, I have used AI when I needed to write repetitive code. But, I
 
 When documenting code, AI has helped me to make sure it was detailed enough to the point the reader will understand it clearly.
 
-13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”:
+13. Quality assurance:
 
 I used AI to fix some of the errors that I was getting while coding. It gave me really good solutions to the problem. Overall, the usefulness was high, as it helped me a lot throughout the class.
 
@@ -73,26 +73,26 @@ I used AI to fix some of the errors that I was getting while coding. It gave me 
 
 I have used AI to give me ideas on how to answer our smart goals. I would say the usefulness is moderate.
 
-III. Impact on Learning and Understanding:
+## III. Impact on Learning and Understanding:
 
 Using AI has definitely improved my learning experience. The swift and clear responses that AI tools are able to provide help me understand the material better with their explanations and such. But, I’ve come to realize that using AI too much is not a good thing. It prevents me from exploring and finding my own way out of things. But overall, it has truly helped me a lot throughout the course.
 
-IV. Practical Applications:
+## IV. Practical Applications:
 
 I feel like outside of ICS314, I have utilized AI to help me create a very simple website. I used the next.js application template. Letting the AI know that I am using the next.js template, it provided me with a “starter kit” to start building it from the template. Like I’ve said before, AI applications are a really powerful tool in basically doing many things.
 
-V. Challenges and Opportunities:
+## V. Challenges and Opportunities:
 
 Sometimes, the AI would not provide me with enough information or it would just straight up give me the wrong information. I feel like AI is still not fully developed yet and could use some improvement. I feel like potential opportunities are, for example, offering personalized coding assistance, or automated feedback on homework assignments. Or maybe, you can use AI-generated code to use as an example to learn the material.
 
-VI. Comparative Analysis:
+## VI. Comparative Analysis:
 
 When you are taught using traditional teaching methods, you will need to use critical thinking skills and you will be taught by a real person. When you use AI-enhanced approaches, you will instantly be given a computer-generated response that could sometimes be wrong. If you were to incorporate AI-enhanced learning with traditional teaching, it would make for a better learning environment!
 
-VII. Future Considerations:
+## VII. Future Considerations:
 
 I feel like AI is still evolving and can do even better things in the future. And also, AI still needs improvement to provide better solutions to things. Some challenges are that when you ask it to do everything for you, it won’t literally do everything for you. AI programs have limitations on what they can do.
 
-VIII. Conclusion:
+## VIII. Conclusion:
 
 Throughout the course, AI has helped me out tremendously. Without the use of AI, I honestly don’t think I would have survived the course. Sometimes, AI was not needed, as I already had the understanding of doing certain tasks. A recommendation for optimizing the integration of AI in future courses is maybe implementing some AI-based code as examples for us to learn from. That would be great and would help us along the way in our software engineering journey.
