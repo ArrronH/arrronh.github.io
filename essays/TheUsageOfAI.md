@@ -9,8 +9,6 @@ labels:
   - AI
 ---
 
-![Software Engineering](https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg)
-
 ## I. Introduction
 
 AI is an incredibly powerful tool, and saying it won't take over the world would be an understatement. Throughout my time in ICS 314, I've used AI tools like ChatGPT and Claude AI to help enhance my learning experience. These AI tools have helped me with fixing errors within my code, answering questions that I did not have answers to right away, and completing assignments in a timely manner. The availability of AI has truly been a lifesaver, helping me realize that there's always something out there to assist you.
