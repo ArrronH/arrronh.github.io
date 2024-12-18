@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Usage of AI"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12/17
+date: 2024-12-17
 published: true
 labels:
   - AI
