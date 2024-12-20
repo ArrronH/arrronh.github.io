@@ -9,7 +9,7 @@ labels:
   - AI
 ---
 
-![AI](https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg)
+![AI](https://www.aeroscroll.com/wp-content/uploads/2024/04/ai_instagram_cpation_generator-300x300.jpg)
 
 ## I. Introduction
 
@@ -17,59 +17,59 @@ AI is an incredibly powerful tool, and saying it won't take over the world would
 
 ## II. Personal Experience with AI:
 
-1. Experience WODs e.g. E18:
+- Experience WODs e.g. E18:
 
 For the Experience WOD’s, I have used ChatGPT and Claude AI for the Digits experiences. There were some instances when I didn’t know why the pictures weren’t showing up, or why something wasn’t centered correctly. AI definitely gave me useful results for this bit.
 
-2. In-class Practice WODs:
+- In-class Practice WODs:
 
 For the in-class practice WOD’s, I have never used AI tools to accomplish them. In-class practice WOD’s gave me the opportunity to see what I can do on my own without the need of any help. And when I actually felt like I needed the help, instead of using AI tools, I would ask my fellow classmates or the professor. Using AI would honestly defeat the purpose of in-class practice WOD’s, as they weren’t graded.
 
-3. In-class WODs:
+- In-class WODs:
 
 For the in-class WOD’s, I used ChatGPT and Claude AI. Given that there were time constraints, I felt like it was necessary to use AI tools. Using AI tools to do these WOD’s were as simple as pasting in the instructions and getting the answer. I would almost always get the right solution. Most of the in-class WOD’s were similar to the in-class practice ones, so I would use those as my starting point. So, I would say the usefulness of AI was extremely high when doing these in-class WOD’s.
 
-4. Essays:
+- Essays:
 
 When writing essays, I have used very little AI. The only times when I’ve used AI to help me write an essay was when I was stuck on what to write about or how to rephrase something so that it would sound better. Mostly, I would ask ChatGPT/Claude AI to summarize what I needed to write by pasting in the little prompt and it would give me bullet points/ideas on what to write and where to start. I would use it as a stepping stone to start writing my essays. Overall, its usefulness is high, as it has helped me a lot in writing these essays.
 
-5. Final project:
+- Final project:
 
 For the final project, I have used ChatGPT or Claude AI. I asked AI to give me starting points on how to create a page or on how to fix certain ESLint errors. Those were mainly the only reasons I have used AI for the final project. Overall, the use of AI has made it more efficient for me to complete my part of the project in a timely manner.
 
-6. Learning a concept / tutorial:
+- Learning a concept / tutorial:
 
 When learning a concept or a tutorial, I have used AI to help me understand it better. When we were learning how to create a layout that is used on multiple pages for Next.js, AI gave me a really good explanation on how to efficiently code it. Overall, the usefulness of AI was high, as it gave me a better understanding of the material that we need to know.
 
-7. Answering a question in class or in Discord:
+- Answering a question in class or in Discord:
 
 Honestly, I have never really answered a question in-class or on Discord. So, the use of AI is invalid here.
 
-8. Asking or answering a smart-question:
+- Asking or answering a smart-question:
 
 I may have answered at least one smart-question, but the answer to that question was very simple and did not need AI to find a solution. So, the use of AI here is also invalid.
 
-9. Coding example e.g. “give an example of using Underscore .pluck”:
+- Coding example e.g. “give an example of using Underscore .pluck”:
 
 When given coding examples, I have used AI to help me. I would honestly just paste them into the AI tool and it would spit out a direct answer for me. It did not help me to learn the material, but it helped me progress further with what I was trying to learn. So, I would say that the usefulness was moderate, as it didn’t give me an opportunity to learn the material myself.
 
-10. Explaining code:
+- Explaining code:
 
 I have used AI to help me explain code only because I am really bad at explaining things and AI tools would give me a clear and easy-to-understand response that I could use to explain code. So, the usefulness of AI in this scenario is high.
 
-11. Writing code:
+- Writing code:
 
 When writing code, I have used AI when I needed to write repetitive code. But, I would always review it afterwards to see if there were any discrepancies. Overall, the usefulness is high, as it saves a lot of time for me.
 
-12. Documenting code:
+- Documenting code:
 
 When documenting code, AI has helped me to make sure it was detailed enough to the point the reader will understand it clearly.
 
-13. Quality assurance:
+- Quality assurance:
 
 I used AI to fix some of the errors that I was getting while coding. It gave me really good solutions to the problem. Overall, the usefulness was high, as it helped me a lot throughout the class.
 
-14. Other uses in ICS 314 not listed:
+- Other uses in ICS 314 not listed:
 
 I have used AI to give me ideas on how to answer our smart goals. I would say the usefulness is moderate.
 
