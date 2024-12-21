@@ -8,7 +8,7 @@ published: true
 labels:
   - HTML
   - Javascript
-summary: "A redesigned website for the Honolulu Badminton Club, a well-established gym in Honolulu, Hawaii. This new site enhances user experience, streamlines navigation, and updates the club’s online presence with modern aesthetics and functionality, reflecting the vibrant Badminton community in Honolulu."
+summary: "A redesigned website for the Honolulu Badminton Club, a well-established gym in Honolulu, Hawaii."
 ---
 
 ![Badminton](https://www.orlincohen.com/wp-content/uploads/2022/10/shutterstock_1706854582-1080X1080-V2-300x300.jpg)
