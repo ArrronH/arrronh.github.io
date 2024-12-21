@@ -79,7 +79,7 @@ Using AI has definitely improved my learning experience. The swift and clear res
 
 ## IV. Practical Applications:
 
-I feel like outside of ICS314, I have utilized AI to help me create a very simple website. I used the next.js application template. Letting the AI know that I am using the next.js template, it provided me with a “starter kit” to start building it from the template. Like I’ve said before, AI applications are a really powerful tool in basically doing many things.
+I feel like outside of ICS314, I have utilized AI to help me create a very simple website. I used the Next.js application template. Letting the AI know that I am using the Next.js template, it provided me with a “starter kit” to start building it from the template. Like I’ve said before, AI applications are a really powerful tool in basically doing many things.
 
 ## V. Challenges and Opportunities:
 
