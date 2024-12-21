@@ -5,7 +5,7 @@ image: img/Student.jpg
 title: "Student Record Keeper"
 date: 2024/03/25
 published: true
-summary: "I developed code in my ICS 212 class that lets you input student information and keep a record of it."
+summary: "I developed code in my ICS 212 class that lets you input student information and also keep a record of it."
 ---
 
 ![Student Records](https://tx02201707.schoolwires.net/cms/lib/TX02201707/Centricity/Domain/5513/records.jpg)
