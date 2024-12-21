@@ -8,7 +8,7 @@ published: true
 labels:
   - C
   - Java
-summary: "A very simple command-line calculator that I made in ICS 212."
+summary: "A very simple command-line calculator that I made in my ICS 212 class."
 ---
 
 ![Calc](https://www.wikihow.com/images/thumb/2/22/Make-a-Command-Prompt-Calculator-Step-6.jpg/v4-460px-Make-a-Command-Prompt-Calculator-Step-6.jpg)
