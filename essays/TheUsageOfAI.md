@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Usage of AI"
+title: "AI in the Classroom: Lessons Learned from ICS 314 Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-17
 published: true
