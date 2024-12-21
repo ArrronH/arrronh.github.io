@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering Reflection"
+title: "Foundations of Ethical and Collaborative Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-19
 published: true
